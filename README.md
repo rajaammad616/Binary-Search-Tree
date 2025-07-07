@@ -37,15 +37,23 @@ Cross-platform screen clearing (Windows/Linux support)
     deleteNode(TreeNode*, int): Delete a node from the BST
 
 **Menu Options**
+
 After running the program, a menu will be shown:
 
 Option	Operation
+
 1	Insert Node
+
 2	Search Node
+
 3	Delete Node
+
 4	Print/Traversal BST
+
 5	Height of Tree
+
 6	Clear Screen
+
 0	Exit Program
 
  **Notes**
