@@ -12,6 +12,7 @@ Cross-platform screen clearing (Windows/Linux support)
 **Class Overview:**
 
   **TreeNode Class:**
+
   Represents a node in the BST.
   **Attributes:**
       int value
