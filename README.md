@@ -1,7 +1,7 @@
-Binary Search Tree (BST) in C++
+Binary Search Tree (BST) in C++:
 This C++ program demonstrates the implementation of a Binary Search Tree (BST). It allows users to perform basic tree operations such as inserting, searching, deleting nodes, printing the tree in level-order (BFS), and finding the height of the tree. The implementation includes both recursive and iterative approaches for certain functionalities.
 
-**Features**
+**Features:**
 Insert a node into the BST (recursively)
 Search for a node (both recursive and iterative search used)
 Delete a node (handling all 3 cases: leaf, one child, two children)
@@ -9,9 +9,9 @@ Print the tree using Level-Order Traversal (Breadth-First Search)
 Compute the height of the tree
 Cross-platform screen clearing (Windows/Linux support)
 
-**Class Overview**
+**Class Overview:**
 
-  **TreeNode Class**
+  **TreeNode Class:**
   Represents a node in the BST.
   **Attributes:**
       int value
